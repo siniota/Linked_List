@@ -11,4 +11,6 @@ Fork this repo and clone it. Then work by creating branches and sending pull req
 
 <p>Not yet completed</p>  
 
-<hr>
+<br>
+
+<p>this material is also useful --> https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2_.cpp_tutorial.pdf</p>  
